@@ -1,0 +1,6 @@
+.dropdown {
+  height: 100% !important;
+  padding: 0 !important;
+  padding-left: 10px !important;
+  max-height: 50px;
+}

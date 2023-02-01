@@ -1,0 +1,37 @@
+.navbar {
+  height: 70px;
+  background: #fafafa;
+  border-bottom: 1px solid rgba(6, 29, 97, 0.2);
+  display: flex;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  padding-left: 25px;
+}
+
+.navData {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.infoContainer {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 100%;
+  color: #061d61;
+}
+
+.title {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 100%;
+  color: #fb8500;
+}

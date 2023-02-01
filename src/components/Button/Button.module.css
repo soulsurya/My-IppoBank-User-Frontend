@@ -1,0 +1,21 @@
+.button {
+  outline: none;
+  cursor: pointer;
+  border-radius: 4px;
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  line-height: 150%;
+  letter-spacing: 1px;
+  min-width: 100px;
+  border: 1px solid;
+}
+
+.large {
+  font-size: 16px;
+  padding: 12px 42px;
+}
+
+.small {
+  font-size: 12px;
+  padding: 8px 32px;
+}

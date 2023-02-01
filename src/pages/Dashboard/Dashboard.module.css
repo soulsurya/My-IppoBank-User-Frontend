@@ -1,0 +1,5 @@
+.displaySection {
+  overflow-x: hidden;
+  min-height: 90vh;
+  border-left: 1px solid #061d6152;
+}

@@ -1,0 +1,73 @@
+.container {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+}
+.imageContainer {
+  width: 50%;
+  padding: 20px;
+  height: 100%;
+  background: linear-gradient(150.93deg, #061d61 -0.56%, #0e2d88 104.5%);
+}
+.logo {
+  filter: brightness(50);
+}
+.phoneImage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.inputContainerBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 100%;
+}
+.inputContainer {
+  padding-top: 20px;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  width: 50%;
+  flex-direction: column;
+}
+.label {
+  font-size: 0.9rem;
+}
+.buttonContainer {
+  width: 50%;
+  margin-top: 30px;
+  display: flex;
+  align-items: flex-start;
+}
+.title {
+  width: 50%;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 48px;
+  color: #fb8500;
+  text-align: left;
+}
+
+@media screen and (max-width: 1024px) {
+  .inputContainerBox {
+    width: 70%;
+  }
+  .buttonContainer,
+  .title,
+  .inputContainer {
+    width: 70%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .inputContainerBox {
+    width: 100%;
+  }
+  .buttonContainer,
+  .title,
+  .inputContainer {
+    width: 90%;
+  }
+}

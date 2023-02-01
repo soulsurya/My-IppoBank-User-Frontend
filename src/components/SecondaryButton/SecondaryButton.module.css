@@ -1,0 +1,37 @@
+.secondaryButton {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  align-items: center;
+
+  border: 1px solid #b8b8b8;
+  box-sizing: border-box;
+  border-radius: 8px;
+
+  cursor: pointer;
+
+  outline: none;
+}
+
+.secondaryButtonText {
+  width: 100%;
+  height: auto;
+
+  text-align: center;
+
+  font-family: Lato;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 20px;
+
+  text-align: center;
+
+  color: #717171;
+}
+
+.secondaryButton:disabled {
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+}

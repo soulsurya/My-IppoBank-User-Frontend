@@ -1,0 +1,19 @@
+.container {
+  padding: 25px;
+}
+
+.name {
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 100%;
+}
+
+.detailsContainer {
+  padding: 20px 0px;
+}
+
+.detailCard {
+  display: flex;
+  margin-top: 10px;
+  gap: 20px;
+}

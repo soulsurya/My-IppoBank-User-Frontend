@@ -1,0 +1,11 @@
+.modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.paper {
+  border: 2px solid #000;
+  background-color: white;
+  position: relative;
+}

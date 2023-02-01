@@ -1,0 +1,40 @@
+.dialogDescriptionContainer {
+    margin: 0px 10px;
+}
+
+.descriptionText {
+    font-family: Lato;
+    font-size: 16px;
+    line-height: 30px;
+
+    color: #333333;
+
+    white-space: pre-line;
+}
+
+.alertTitleContainer {
+    margin: 0px 10px;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+.alertTitleText {
+    font-family: Lato;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 140%;
+
+    color: #333333;
+    display: inline-block;
+}
+
+.buttonContainer {
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+}
+
+.button {
+    width: 180px;
+    height: 50px;
+    margin: 0px 50px;
+}
