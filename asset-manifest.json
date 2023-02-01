@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/My-IppoBank-User-FrontEnd/static/css/main.1c80a39f.css",
+    "main.js": "/My-IppoBank-User-FrontEnd/static/js/main.e0e03d4d.js",
+    "static/js/787.7efd31bd.chunk.js": "/My-IppoBank-User-FrontEnd/static/js/787.7efd31bd.chunk.js",
+    "static/media/bankImage.png": "/My-IppoBank-User-FrontEnd/static/media/bankImage.d0fb01cb4712c0174ca4.png",
+    "static/media/phoneImage.png": "/My-IppoBank-User-FrontEnd/static/media/phoneImage.9b77f1b0df44e0955684.png",
+    "index.html": "/My-IppoBank-User-FrontEnd/index.html",
+    "main.1c80a39f.css.map": "/My-IppoBank-User-FrontEnd/static/css/main.1c80a39f.css.map",
+    "main.e0e03d4d.js.map": "/My-IppoBank-User-FrontEnd/static/js/main.e0e03d4d.js.map",
+    "787.7efd31bd.chunk.js.map": "/My-IppoBank-User-FrontEnd/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c80a39f.css",
+    "static/js/main.e0e03d4d.js"
+  ]
+}
